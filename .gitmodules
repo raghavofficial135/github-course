@@ -1,0 +1,3 @@
+[submodule "image-text-translator"]
+	path = image-text-translator
+	url = https://github.com/derailed-dash/image-text-translator
