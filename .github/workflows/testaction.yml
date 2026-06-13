@@ -15,6 +15,7 @@ jobs:
         working-directory: ./02_first_project
       - name: Run tests
         run: npm test
+        working-directory: ./02_first_project
   deploy:
     needs: test
     runs-on: ubuntu-latest
