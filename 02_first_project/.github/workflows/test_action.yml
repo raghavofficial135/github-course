@@ -1,7 +1,7 @@
 name: Test action project workflow
 on: push
 jobs:
-  push-job:
+  pushjob:
     runs-on: ubuntu-latest
     steps:
       - name: Get code
